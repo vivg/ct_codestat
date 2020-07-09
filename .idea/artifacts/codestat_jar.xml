@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="codestat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/codestat_jar</output-path>
+    <root id="archive" name="codestat.jar">
+      <element id="module-output" name="codestat" />
+    </root>
+  </artifact>
+</component>
